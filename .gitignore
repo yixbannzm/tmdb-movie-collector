@@ -3,4 +3,5 @@
 __pycache__/
 .env
 movies.csv
+movies_preview.csv
 movies_demo.csv
